@@ -1,0 +1,38 @@
+/* [project]/app/styles/card.module.css [app-client] (css) */
+.card-module__75AfSa__card {
+  width: 250px;
+  height: 250px;
+  color: "#fff6f2";
+  background-color: #3b4042;
+  border: 4px solid #323739;
+  border-radius: 17px;
+  margin: 70px 50px 50px;
+  padding: 20px;
+  overflow: hidden;
+}
+
+.card-module__75AfSa__card_header {
+  font-size: 20px;
+}
+
+.card-module__75AfSa__card_text {
+  width: 80%;
+  font-size: 12px;
+}
+
+.card-module__75AfSa__card_icon {
+  margin: -20px auto auto 140px;
+}
+
+.card-module__75AfSa__hero_selector {
+  background-color: #768aa6;
+  border-radius: 17px;
+  height: 20px;
+  margin: 20px 10px auto;
+}
+
+.card-module__75AfSa__hero_selector:hover {
+  background-color: #384659;
+}
+
+/*# sourceMappingURL=app_styles_card_module_css_bad6b30c._.single.css.map*/

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/app/styles/card.module.css"],"sourcesContent":[".card {\r\n\twidth: 250px;\r\n\theight: 250px;\r\n\tmargin: 70px 50px 50px 50px;\r\n\tborder-radius: 17;\r\n\tborder: 4px solid #323739;\r\n\tbackground-color: #3b4042;\r\n\tcolor: '#fff6f2';\r\n\tpadding: 20px;\r\n\toverflow: hidden;\r\n}\r\n\r\n.card_header {\r\n\tfont-size: 20px;\r\n}\r\n\r\n.card_text {\r\n\tfont-size: 12px;\r\n\twidth: 80%;\r\n}\r\n\r\n.card_icon {\r\n\tmargin: -20px auto auto 140px;\r\n}\r\n\r\n.hero_selector {\r\n\theight: 20px;\r\n\tmargin: 20px 10px auto 10px;\r\n\tbackground-color: #768aa6;\r\n\tborder-radius: 17px;\r\n}\r\n\r\n.hero_selector:hover {\r\n\tbackground-color: #384659;\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;AAYA;;;;AAIA;;;;;AAKA;;;;AAIA;;;;;;;AAOA"}}]
+}

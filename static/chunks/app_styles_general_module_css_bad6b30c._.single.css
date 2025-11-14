@@ -1,0 +1,21 @@
+/* [project]/app/styles/general.module.css [app-client] (css) */
+.general-module__cZZ0iW__horizontal_align {
+  flex-direction: row;
+  display: flex;
+}
+
+.general-module__cZZ0iW__vertical_align {
+  flex-direction: column;
+  display: flex;
+}
+
+.general-module__cZZ0iW__small_header {
+  font-size: 25px;
+}
+
+.general-module__cZZ0iW__center {
+  justify-content: center;
+  align-items: center;
+}
+
+/*# sourceMappingURL=app_styles_general_module_css_bad6b30c._.single.css.map*/
