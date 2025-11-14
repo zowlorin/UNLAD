@@ -1,4 +1,6 @@
-import { RefAttributes, ForwardRefExoticComponent } from 'react';
+"use client"
+
+import { RefAttributes, ForwardRefExoticComponent, useEffect } from 'react';
 
 import { useGesture } from 'react-use-gesture';
 import { animated, useSpring } from "@react-spring/web";
